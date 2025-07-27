@@ -16,7 +16,7 @@ Project Structure
 ```
 ├── user_profile.py        # Hash Table implementation for user profiles
 ├── social_graph.py        # Graph implementation for user connections
-├── influencer_queue.py    # Priority Queue implementation for Top-K influencers
+├── priority_queue.py    # Priority Queue implementation for Top-K influencers
 ├── main.py                # Script to demonstrate key functionalities
 └── README.md              # Project documentation
 ```
