@@ -24,8 +24,8 @@ Project Structure
 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Snath32491/Project_Phase 2.git
-   cd Project_Phase 2 
+   git clone https://github.com/Snath32491/MSCS_Project_Phase 2.git
+   cd MSCS_Project_Phase 2 
    ```
 2. Run the demonstration script:
    ```bash
